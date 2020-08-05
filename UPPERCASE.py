@@ -1,0 +1,5 @@
+print ("-------------------------------------------------------")
+minuscula = input("Ponga el texto en minusculas por favor: ")
+print ("-------------------------------------------------------")
+mayuscula = minuscula.upper()
+print(mayuscula)
